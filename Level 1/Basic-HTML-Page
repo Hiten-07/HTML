@@ -1,0 +1,14 @@
+<!DOCTYPE html> -> Tells Browser you are using HTML5
+<html> -> Root of an HTML Document
+  <head> ->Container for Metadata
+    <title> My First Page </title> ->Page Title
+  </head>
+  <body> ->Contains all data rendered by the Browser
+    <p> Hello World </p> ->Paragraph Tag
+  </body>
+</html>
+
+- HTML Tag is the parent of Head and Body Tag.
+- Most of HTML elements have opening and closing tags with content in between.
+- Some tags have no content in between like <br>.
+- We can use inspect element / view page source to edit HTML.
