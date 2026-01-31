@@ -1,0 +1,3 @@
+- DOCTYPE tells the browser which version of HTML the webpage is written in.
+- It helps browser to understand HTML correctly.
+- Prevent Design and layout error.
