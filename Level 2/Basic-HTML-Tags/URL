@@ -1,0 +1,7 @@
+1. Relative url :
+- image.png
+- short, depend on current page.
+
+2. Absolute url :
+- https://google.com / image.png
+- full address, independent
