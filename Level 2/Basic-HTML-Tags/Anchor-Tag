@@ -1,0 +1,6 @@
+- Used to add links to your page.
+
+<a href = "https://google.com"> Google </a>
+
+- href means link.
+- https://google.com = Absolute url
