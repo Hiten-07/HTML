@@ -1,0 +1,2 @@
+- Data that describes data.
+- For Example an HTML document is data, but HTML can also contain metadata in it's <head> elements that descibes the document like who wrote it and it's summary.
