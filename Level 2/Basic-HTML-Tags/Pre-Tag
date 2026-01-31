@@ -1,0 +1,6 @@
+- Used to Display text as without ignoring spaces and next lines.
+
+<pre> This
+      is a sample
+      Text
+          </pre>
