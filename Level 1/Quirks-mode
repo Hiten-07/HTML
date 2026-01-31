@@ -1,0 +1,2 @@
+- Quirks mode is a borowser mode where the browser display a webpage using old, non-standard HTML rules.
+- If DOCTYPE is missing or wrong, the browser switches to Quirks mode.
