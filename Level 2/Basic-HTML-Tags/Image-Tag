@@ -1,0 +1,6 @@
+- Used to add images to your page.
+
+<img src = "/img.png" alt = "random image">
+
+- src = source
+- img.png = relative url
