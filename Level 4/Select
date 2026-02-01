@@ -1,0 +1,4 @@
+<select name = "city" id = "city">
+  <option value = "Delhi"> Delhi </option>
+  <option value = "Banglore"> Banglore </option>
+</select>
