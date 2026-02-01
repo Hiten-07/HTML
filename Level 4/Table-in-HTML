@@ -1,0 +1,16 @@
+- Tables are used to represent real life table data.
+
+<tr> -> used to Display table row.
+<td> -> used to Display table data.
+<th> -> used to Display table header.
+
+<table>
+  <tr>
+    <th> Name </th>
+    <th> Roll No </th>
+  </tr>
+  <tr>
+    <td> Hiten </td>
+    <td> 25 </td>
+  </tr>
+</table>
