@@ -1,0 +1,3 @@
+<label for = "id1">
+  <input type ="rdio" value = "classX" name = "class" id = "id1">
+</label>
