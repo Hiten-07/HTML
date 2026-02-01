@@ -1,0 +1,7 @@
+- Using semantic tags for layout.
+- Using the right tag.
+- Semantic tags that clearly describe the meaning of their content.
+
+<header>
+<main>
+<footer>
