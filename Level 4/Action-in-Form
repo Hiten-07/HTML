@@ -1,0 +1,3 @@
+- Action attribute is used to define what action meeds to be performed when a form is submitted.
+
+<form action = "/action.php"> -> file name
