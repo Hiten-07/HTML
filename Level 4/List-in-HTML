@@ -1,0 +1,13 @@
+- Lists are used to represent real life list data.
+
+1. Unordered List :
+<ul>
+  <li> Apple </li>
+  <li> Mango </li?
+</ul>
+
+2. Ordered List :
+<ol>
+  <li> Apple </li?
+  <li> Mangp </li>
+</ol>
