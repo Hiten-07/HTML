@@ -1,0 +1,8 @@
+<video src = "myVideo.mp4">My video </video>
+
+Attributes :
+- controls
+- loop
+- Height
+- width
+- autoplay
