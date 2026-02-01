@@ -1,0 +1,6 @@
+- Forms are used to collect data from the user.
+- Example : sign up, login, help request,, contact me
+
+<form>
+  form content
+</form>
